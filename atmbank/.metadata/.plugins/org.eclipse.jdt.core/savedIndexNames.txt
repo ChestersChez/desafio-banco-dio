@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Beto\Desktop\atmbank\.metadata\.plugins\org.eclipse.jdt.core
+3344167165.index
+2447011590.index
+1865797976.index
